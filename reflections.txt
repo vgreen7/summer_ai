@@ -1,2 +1,6 @@
 Reflections:
 
+One very interesting aspect that specifically stood out to me today was the paperclip problem. After further research,
+the thought experiment peaked my interest. In summary, the paperclip problem evaluated the consequences of artificial 
+intelligence being left to pursue a goal that is in its core, non malicious, but performing malicious acts in attempt
+to accomplish it's goal. 
