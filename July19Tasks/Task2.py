@@ -1,3 +1,5 @@
+#Task 2: Write a program that converts from hours to minutes or minutes to hours depending on the user's choice.
+
 time_decision = input("Minutes or Hours? ")
 
 if (time_decision == "Minutes"):
